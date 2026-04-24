@@ -58,9 +58,9 @@ body {
 
 
 .logo {
-   @font-face 
+   @font-face {
 font-family: 'agbalumo'; 
-src: href(https://fonts.googleapis.com/css?family=Agbalumo)
+src: url(https://fonts.googleapis.com/css?family=Agbalumo)}
     font-family: 'agbalumo'
     font-size: 1.8rem;
     font-weight: 700;
