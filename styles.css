@@ -54,9 +54,11 @@ body {
     justify-content: space-between;
     align-items: center;
 }
-@font-face 
+{@font-face 
 font-family: 'agbalumo' 
 src: url(https://fonts.googleapis.com/css?family=Agbalumo)
+}
+
 .logo {
    
     font-family: myFont; 'agbalumo'
