@@ -58,10 +58,8 @@ body {
 
 
 .logo {
-   @font-face {
-font-family: 'agbalumo'; 
-src: url(https://fonts.googleapis.com/css2?family=Coiny&display=swap)}
-    font-family: 'agbalumo'
+  
+    font-family: 'coiny'
     font-size: 1.8rem;
     font-weight: 700;
     color: var(--dark-grey);
