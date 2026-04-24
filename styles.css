@@ -62,7 +62,7 @@ src: href(https://fonts.googleapis.com/css?family=Agbalumo)
 
 .logo {
    
-    font-family: myFont; 'agbalumo'
+    font-family: 'agbalumo'
     font-size: 1.8rem;
     font-weight: 700;
     color: var(--dark-grey);
