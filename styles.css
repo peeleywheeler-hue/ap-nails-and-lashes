@@ -57,7 +57,7 @@ body {
 
 .logo {
    
-    font-family: 'agbalumo'
+    font-family: myFont 'agbalumo'
     font-size: 1.8rem;
     font-weight: 700;
     color: var(--dark-grey);
